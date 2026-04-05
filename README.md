@@ -32,7 +32,7 @@ Before trying anything advanced, check Bluetooth:
 https://cdsassets.apple.com/live/7WUAS350/images/airpods/macos-tahoe-26-system-settings-bluetooth-nearby-devices-airpods-max-connect.png
 3. Make sure Bluetooth is turned ON
 
-👉 AirPods rely entirely on Bluetooth, so if it’s off, they won’t connect. ([UpPhone][2])
+👉 AirPods rely entirely on Bluetooth, so if it’s off, they won’t connect. 
 
 ---
 
@@ -51,7 +51,7 @@ Sometimes AirPods don’t connect automatically.
 <img width="1285" height="582" alt="image" src="https://github.com/user-attachments/assets/79fe132e-4a4d-4712-96de-acfd1f6d7453" />
 
 
-👉 This forces a new connection and often fixes the issue. ([YouTube][3])
+👉 This forces a new connection and often fixes the issue.
 
 ---
 
@@ -65,7 +65,7 @@ AirPods can connect to only one device at a time.
 * Move AirPods closer to your Mac
 * Try connecting again
 
-👉 Connection conflicts are a very common reason AirPods won’t connect. ([SoundGuys][4])
+👉 Connection conflicts are a very common reason AirPods won’t connect. 
 
 ---
 
@@ -79,7 +79,7 @@ If your AirPods battery is low, they may not connect.
 * Wait until the light turns green
 * Try reconnecting
 
-👉 Low battery is one of the most overlooked causes. ([Asurion][5])
+👉 Low battery is one of the most overlooked causes. 
 
 ---
 
@@ -94,7 +94,7 @@ If your AirPods were previously connected but now don’t work:
 3. Click **“i” → Forget Device**
 4. Reconnect them again
 
-👉 This resets the connection and removes bugs. ([SoundGuys][4])
+👉 This resets the connection and removes bugs. 
 
 ---
 
@@ -110,7 +110,7 @@ Sometimes AirPods are connected—but no sound.
 2. Click **Output**
 3. Select your AirPods
 
-👉 This ensures audio goes to your AirPods. ([UpPhone][2])
+👉 This ensures audio goes to your AirPods. 
 
 ---
 
@@ -124,7 +124,7 @@ A simple restart can fix many issues.
 * Clears temporary bugs
 * Fixes connection glitches
 
-👉 This is one of the fastest fixes for AirPods connection problems. ([Tactiq][6])
+👉 This is one of the fastest fixes for AirPods connection problems. 
 
 ---
 
@@ -139,7 +139,7 @@ If nothing works, reset them completely:
 3. Wait until light flashes amber → white
 4. Reconnect to your Mac
 
-👉 This restores factory settings and fixes most issues. ([JustAnswer][7])
+👉 This restores factory settings and fixes most issues. 
 
 ---
 
@@ -158,7 +158,7 @@ Or
 
 
 
-👉 This can fix deeper Bluetooth issues. ([Сообщество поддержки Apple][8])
+👉 This can fix deeper Bluetooth issues. 
 
 ---
 
@@ -171,7 +171,7 @@ Outdated software can cause compatibility issues.
 * Go to **System Settings → General → Software Update**
 * Install updates
 
-👉 Updates often fix bugs affecting Bluetooth and connectivity. ([Lifewire][1])
+👉 Updates often fix bugs affecting Bluetooth and connectivity. 
 
 ---
 
