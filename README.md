@@ -29,7 +29,10 @@ Before trying anything advanced, check Bluetooth:
 
 1. Click the **Apple menu ()**
 2. Go to **System Settings → Bluetooth**
-https://cdsassets.apple.com/live/7WUAS350/images/airpods/macos-tahoe-26-system-settings-bluetooth-nearby-devices-airpods-max-connect.png
+
+<img width="1600" height="1115" alt="image" src="https://github.com/user-attachments/assets/d9894239-d4a2-4d8f-a49d-fc246de58aae" />
+
+   
 3. Make sure Bluetooth is turned ON
 
 👉 AirPods rely entirely on Bluetooth, so if it’s off, they won’t connect. 
@@ -48,7 +51,8 @@ Sometimes AirPods don’t connect automatically.
 4. Wait until the light flashes white
 5. Go to **Bluetooth settings on Mac → Connect**
 
-<img width="1285" height="582" alt="image" src="https://github.com/user-attachments/assets/79fe132e-4a4d-4712-96de-acfd1f6d7453" />
+<img width="1296" height="873" alt="image" src="https://github.com/user-attachments/assets/0a42b759-1582-4917-9370-0299bcd8f7c2" />
+
 
 
 👉 This forces a new connection and often fixes the issue.
