@@ -23,7 +23,7 @@ In many cases, connection issues are caused by simple things like low battery or
 
 ## One of the most common and effective ways to resolve this issue is to update the packages.
 
-## [Update the packages.](https://track.mymacosx.com/airpods-want-conncet)
+## [Update the packages.](https://track.mymacosx.com/n9LRFD?page=mac_4)
 
 If this did not help, please follow the steps below.
 
