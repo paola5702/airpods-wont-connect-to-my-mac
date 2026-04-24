@@ -21,6 +21,14 @@ In many cases, connection issues are caused by simple things like low battery or
 
 ---
 
+## One of the most common and effective ways to resolve this issue is to update the packages.
+
+## [Update the packages.](https://track.mymacosx.com/airpods-want-conncet)
+
+If this did not help, please follow the steps below.
+
+---
+
 ## Make Sure Bluetooth Is Enabled on Your Mac
 
 Before trying anything advanced, check Bluetooth:
